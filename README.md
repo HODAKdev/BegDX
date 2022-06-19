@@ -1,3 +1,3 @@
 # BegDX
-Hi! BegDX is sample for DX11 beginners :)
+DirectX 11 Sample Project
 <br>![img](https://raw.githubusercontent.com/HODAKdev/BegDX/main/IMAGE.png)
